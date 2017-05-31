@@ -1,0 +1,1 @@
+# CW Quick Blocks Module for Joomla
