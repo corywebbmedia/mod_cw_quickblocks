@@ -52,7 +52,7 @@ Use CW Quick Blocks to:
 
 If you want to override the default layout, you have to create a template override as follows:
 
-1. Copy '/components/com_cw_quickblocks/views/blocks/tmpl/default.php to /templates/{YOUR_TEMPLATE}/html/com_cw_quickblocks/blocks/default.php'
+1. Copy `/components/com_cw_quickblocks/views/blocks/tmpl/default.php to /templates/{YOUR_TEMPLATE}/html/com_cw_quickblocks/blocks/default.php`
 2. Modify as needed
 
 _Note: If you want to have multiple template overrides, you can create multiple copies of default.php, but give it different names. Each new override will be available in as an option in the Template Override parameter in the menu item._
