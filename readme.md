@@ -11,7 +11,7 @@ Use CW Quick Blocks to:
 * Add an accordion in a module
 * And more
 
-## (CW Quick Blocks Component)[https://github.com/corywebbmedia/com_cw_quickblocks]
+## [CW Quick Blocks Component](https://github.com/corywebbmedia/com_cw_quickblocks)
 
 * Standard Joomla MVC structure
 * Easily create a page of module positions
@@ -19,7 +19,7 @@ Use CW Quick Blocks to:
 * Default layout uses standard Bootstrap 2 rows and spans
 * GPL License
 
-## (CW Quick Blocks Module)[https://github.com/corywebbmedia/mod_cw_quickblocks]
+## [CW Quick Blocks Module](https://github.com/corywebbmedia/mod_cw_quickblocks)
 
 * Standard Joomla MVC structure
 * Easily embed a module position within a module
